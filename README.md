@@ -15,7 +15,7 @@
      style="width:100%; max-width:800px; height:auto; display:block; margin:auto;">
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SONAL-THAKUR163&label=PROFILE+VIEWS&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=SONAL-THAKUR16&label=PROFILE+VIEWS&color=blueviolet" />
 </p>
 
 ---
@@ -38,15 +38,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SONAL-THAKUR163&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SONAL-THAKUR16&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SONAL-THAKUR163&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SONAL-THAKUR16&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SONAL-THAKUR163&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SONAL-THAKUR16&theme=github_dark"/>
 </p>
 
 ## 🌐 Connect With Me
